@@ -11,6 +11,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/alkagautam16/leetcode_question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/alkagautam16/leetcode_question/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/alkagautam16/leetcode_question/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
