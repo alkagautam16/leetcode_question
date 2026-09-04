@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/alkagautam16/leetcode_question/tree/master/2154-keep-multiplying-found-values-by-two) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/alkagautam16/leetcode_question/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
