@@ -8,6 +8,7 @@
 | [0027-remove-element](https://github.com/alkagautam16/leetcode_question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0219-contains-duplicate-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/alkagautam16/leetcode_question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/alkagautam16/leetcode_question/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0219-contains-duplicate-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/alkagautam16/leetcode_question/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/alkagautam16/leetcode_question/tree/master/0520-detect-capital) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
