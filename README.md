@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/alkagautam16/leetcode_question/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/alkagautam16/leetcode_question/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0219-contains-duplicate-ii) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/alkagautam16/leetcode_question/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -85,4 +88,12 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alkagautam16/leetcode_question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
