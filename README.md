@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alkagautam16/leetcode_question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/alkagautam16/leetcode_question/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/alkagautam16/leetcode_question/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/alkagautam16/leetcode_question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/alkagautam16/leetcode_question/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
