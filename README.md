@@ -37,6 +37,7 @@
 | [0009-palindrome-number](https://github.com/alkagautam16/leetcode_question/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/alkagautam16/leetcode_question/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
 | [2544-alternating-digit-sum](https://github.com/alkagautam16/leetcode_question/tree/master/2544-alternating-digit-sum) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/alkagautam16/leetcode_question/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## String
 |  |
