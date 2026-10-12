@@ -38,6 +38,7 @@
 | [0231-power-of-two](https://github.com/alkagautam16/leetcode_question/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
+| [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/alkagautam16/leetcode_question/tree/master/2544-alternating-digit-sum) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/alkagautam16/leetcode_question/tree/master/0605-can-place-flowers) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
