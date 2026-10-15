@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/alkagautam16/leetcode_question/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/alkagautam16/leetcode_question/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/alkagautam16/leetcode_question/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,4 +120,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/alkagautam16/leetcode_question/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/alkagautam16/leetcode_question/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/alkagautam16/leetcode_question/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
