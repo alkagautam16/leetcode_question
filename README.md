@@ -42,6 +42,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
 | [2544-alternating-digit-sum](https://github.com/alkagautam16/leetcode_question/tree/master/2544-alternating-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/alkagautam16/leetcode_question/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +129,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/alkagautam16/leetcode_question/tree/master/0053-maximum-subarray) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/alkagautam16/leetcode_question/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
