@@ -14,6 +14,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alkagautam16/leetcode_question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/alkagautam16/leetcode_question/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/alkagautam16/leetcode_question/tree/master/0704-binary-search) |
+| [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/alkagautam16/leetcode_question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -38,6 +39,7 @@
 | [0009-palindrome-number](https://github.com/alkagautam16/leetcode_question/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/alkagautam16/leetcode_question/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/alkagautam16/leetcode_question/tree/master/0258-add-digits) |
+| [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
+| [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alkagautam16/leetcode_question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -113,6 +117,7 @@
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/alkagautam16/leetcode_question/tree/master/0605-can-place-flowers) |
+| [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 ## Brainteaser
 |  |
 | ------- |
@@ -133,4 +138,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/alkagautam16/leetcode_question/tree/master/3345-smallest-divisible-digit-product-i) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
