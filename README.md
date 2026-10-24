@@ -18,6 +18,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/alkagautam16/leetcode_question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1816-truncate-sentence](https://github.com/alkagautam16/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alkagautam16/leetcode_question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/alkagautam16/leetcode_question/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -91,6 +92,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/alkagautam16/leetcode_question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0520-detect-capital](https://github.com/alkagautam16/leetcode_question/tree/master/0520-detect-capital) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/alkagautam16/leetcode_question/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1816-truncate-sentence](https://github.com/alkagautam16/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alkagautam16/leetcode_question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
