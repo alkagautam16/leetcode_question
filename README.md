@@ -44,6 +44,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/alkagautam16/leetcode_question/tree/master/2485-find-the-pivot-integer) |
 | [2544-alternating-digit-sum](https://github.com/alkagautam16/leetcode_question/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/alkagautam16/leetcode_question/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
@@ -144,4 +145,8 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/alkagautam16/leetcode_question/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
