@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/alkagautam16/leetcode_question/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0605-can-place-flowers](https://github.com/alkagautam16/leetcode_question/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/alkagautam16/leetcode_question/tree/master/0704-binary-search) |
 | [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
@@ -40,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/alkagautam16/leetcode_question/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/alkagautam16/leetcode_question/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/alkagautam16/leetcode_question/tree/master/0258-add-digits) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
@@ -76,6 +78,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/alkagautam16/leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
