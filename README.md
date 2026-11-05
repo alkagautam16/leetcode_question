@@ -19,6 +19,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/alkagautam16/leetcode_question/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alkagautam16/leetcode_question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1816-truncate-sentence](https://github.com/alkagautam16/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alkagautam16/leetcode_question/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -57,6 +58,7 @@
 | [0088-merge-sorted-array](https://github.com/alkagautam16/leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alkagautam16/leetcode_question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
@@ -72,6 +74,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/alkagautam16/leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/alkagautam16/leetcode_question/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alkagautam16/leetcode_question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alkagautam16/leetcode_question/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
@@ -81,6 +84,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/alkagautam16/leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/alkagautam16/leetcode_question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alkagautam16/leetcode_question/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/alkagautam16/leetcode_question/tree/master/2154-keep-multiplying-found-values-by-two) |
