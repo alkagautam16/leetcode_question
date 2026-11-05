@@ -23,6 +23,7 @@
 | [1816-truncate-sentence](https://github.com/alkagautam16/leetcode_question/tree/master/1816-truncate-sentence) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alkagautam16/leetcode_question/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/alkagautam16/leetcode_question/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/alkagautam16/leetcode_question/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/alkagautam16/leetcode_question/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/alkagautam16/leetcode_question/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -88,6 +89,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/alkagautam16/leetcode_question/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/alkagautam16/leetcode_question/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/alkagautam16/leetcode_question/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/alkagautam16/leetcode_question/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/alkagautam16/leetcode_question/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Simulation
 |  |
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/alkagautam16/leetcode_question/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/alkagautam16/leetcode_question/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Quicksort
 |  |
 | ------- |
