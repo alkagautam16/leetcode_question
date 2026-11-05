@@ -44,6 +44,7 @@
 | [0258-add-digits](https://github.com/alkagautam16/leetcode_question/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/alkagautam16/leetcode_question/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/alkagautam16/leetcode_question/tree/master/0976-largest-perimeter-triangle) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/alkagautam16/leetcode_question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/alkagautam16/leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/alkagautam16/leetcode_question/tree/master/1688-count-of-matches-in-tournament) |
 | [2396-strictly-palindromic-number](https://github.com/alkagautam16/leetcode_question/tree/master/2396-strictly-palindromic-number) |
@@ -156,4 +157,8 @@
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/alkagautam16/leetcode_question/tree/master/2485-find-the-pivot-integer) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/alkagautam16/leetcode_question/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
